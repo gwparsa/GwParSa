@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 I’m looking for some projekts
-- ⚡ I love to draw and play guitar
+- ⚡ I love to learn and create some projekts.
 
 ### Connect with me:
 
