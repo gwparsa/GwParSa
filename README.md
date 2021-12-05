@@ -1,14 +1,14 @@
-### Hi there, I'm Parsa - Founder Of [GwParSa Web](http://gwparsa.ir) 👋
+### Hi there, I'm Parsa - a Mini FrontEnd Programmer 👋
 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators & Developers
-- 🥅 I’m looking for some projekts
+- 🥅 I like to create some mini projects and develop them.
 - ⚡ I love to learn and create some projekts.
 
 ### Connect with me:
 
-[<img align="left" alt="GwParSa.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://gwparsa.ir)
+[<img align="left" alt="GwParSa.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://gwparsa.ir)
 [<img align="left" alt="GwParSa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCMud013yMaEuDcmUm0-TmLQ)
 [<img align="left" alt="Parsa_Soori | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Parsa_Soori)
 [<img align="left" alt="GwParSa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/gwparsa)
