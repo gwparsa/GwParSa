@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators & Developers
-- 🥅 I like to create some mini projects and develop them.
-- ⚡ I love to learn and create some projekts.
+- ⚡ I like to create some mini projects and develop them.
 
 ### Connect with me:
 
