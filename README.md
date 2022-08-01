@@ -8,7 +8,7 @@ I started learning programming in 11 yo with C# lang. and now I just learning we
 
 * 🌍  I'm based in MiddleEast, Iran
 * 🖥️  See my portfolio at [gwparsa.ir](https://gwparsa.ir)
-* ✉️  You can contact me at [gwparsa@gmail.com](mailto:contact@gwparsa.ir)
+* ✉️  You can contact me at [contact@gwparsa.ir](mailto:contact@gwparsa.ir)
 * 🚀  I'm currently working on [Yrabo Academy](https://yarbo.ir)
 
 ### Skills
