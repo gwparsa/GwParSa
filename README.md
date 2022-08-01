@@ -7,9 +7,9 @@ Web designer & developer
 I started learning programming in 11 yo with C# lang. and now I just learning web developing.
 
 * 🌍  I'm based in MiddleEast, Iran
-* 🖥️  See my portfolio at [gwparsa.ir](http://gwparsa.ir)
-* ✉️  You can contact me at [gwparsa@gmail.com](mailto:gwparsa@gmail.com)
-* 🚀  I'm currently working on [Yrabo Academy](http://yarbo.ir)
+* 🖥️  See my portfolio at [gwparsa.ir](https://gwparsa.ir)
+* ✉️  You can contact me at [gwparsa@gmail.com](mailto:contact@gwparsa.ir)
+* 🚀  I'm currently working on [Yrabo Academy](https://yarbo.ir)
 
 ### Skills
 
