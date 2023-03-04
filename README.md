@@ -1,7 +1,7 @@
 Web designer & developer
 ------------------------
 
-I started learning programming in 11 yo with C# lang. and now I just learning web developing.
+Started learning programming at the age of 11 with C# language, but now Im learning Web Developing, Designing, and more...
 
 * 🌍  based in Iran
 * 🖥️  See my portfolio at [gwparsa.ir](https://gwparsa.ir)
